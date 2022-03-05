@@ -17,7 +17,6 @@ public class MatchMaker {
 					moon + i, rising + i);
 			output.add(match);
 		}
-		
 		return output;
 	}
 	
